@@ -217,3 +217,9 @@ bool IsBinarySearchTree(Node<T>* root);
 ```
 
 5. Реализуйте модульные тесты для всех предыдущих заданий. Покрытие кода тестами должно быть не менее 95%.
+
+
+## Полезные ссылки
+* https://habr.com/ru/post/164221/
+* https://ravesli.com/urok-184-nepojmannye-isklyucheniya-obrabotchiki-catch-all-i-spetsifikatsii-isklyuchenij/
+* Мейерс Скотт "Эффективный и современный С++. 42 рекомендации по использованию C++11 и C++14".
